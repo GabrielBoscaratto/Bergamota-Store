@@ -30,4 +30,4 @@ Estamos sempre trabalhando para melhorar a Bergamote Store e torná-la a melhor 
 </ul>
 
 <h1 align="center">Créditos</h1>
-<p align="center">Créditos aos membros do grupo que ajudaram a desenvolver o projeto: Kleberson Ksom que ficou responsavel pelo front-end e Ygor Gamote junto comnigo realizou o back-end e a integração com o banco de dados.</p>
+<p align="center">Créditos aos membros do grupo que ajudaram a desenvolver o projeto: Kleberson Ksom que ficou responsavel pelo front-end e Ygor Gamote junto comigo realizou o back-end e a integração com o banco de dados.</p>
