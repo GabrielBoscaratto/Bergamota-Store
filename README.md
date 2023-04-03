@@ -4,3 +4,4 @@
 ![Bergamota store](https://user-images.githubusercontent.com/104937145/229521415-5769e131-dae9-4923-a08d-a1dcbc6b61bf.png)
 <h1 align="center">Bergamota Store</h1>
 <p align="center">Uma loja de games virtuais inspirada na Steam e Epic Store</p>
+<p align="center">A Bergamote Store foi o meu primeiro projeto em java, foi realizado em grupo aonde fiquei responsavel pela parte de back-end também realizamnos a conexão do software com o banco de dados</p>
