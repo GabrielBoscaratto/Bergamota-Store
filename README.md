@@ -1,7 +1,6 @@
 <h1 align="center">Bergamota Store</h1>
 <p align="center">Uma loja de games virtuais inspirada na Steam e Epic Store</p>
-![loginViewDark](https://user-images.githubusercontent.com/104937145/229520320-e76057ed-cc2e-48b1-8e20-1203d212d4f3.png)
-![createAccount](https://user-images.githubusercontent.com/104937145/229520327-950f6e58-cce4-4825-a4b1-30cf799b9c28.png)
-![userManagementDark](https://user-images.githubusercontent.com/104937145/229520330-b75d7075-60c4-4171-a436-27e80a0af61b.jpeg)
-![Bergamota store](https://user-images.githubusercontent.com/104937145/229520333-0f3ca2b6-97c7-4341-8dd4-497c2aad3db0.png)
-# Java
+![loginViewDark](https://user-images.githubusercontent.com/104937145/229521400-59b73dd8-d235-43be-856d-fdc3af7044b0.png)
+![createAccount](https://user-images.githubusercontent.com/104937145/229521405-4b98d91b-c4fd-47db-887a-80aa77d5d911.png)
+![userManagementDark](https://user-images.githubusercontent.com/104937145/229521409-69e71e69-0308-4abd-be13-1609a409885c.jpeg)
+![Bergamota store](https://user-images.githubusercontent.com/104937145/229521415-5769e131-dae9-4923-a08d-a1dcbc6b61bf.png)
